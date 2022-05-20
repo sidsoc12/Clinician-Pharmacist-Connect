@@ -15,16 +15,6 @@ import 'firebase/compat/storage';
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 
-const firebaseConfig = {
-  apiKey: "AIzaSyCkFYZ5zh154rlav8Mt1dgchAXhL7EaiRc",
-  authDomain: "clinician-pharmacist-connect.firebaseapp.com",
-  projectId: "clinician-pharmacist-connect",
-  storageBucket: "clinician-pharmacist-connect.appspot.com",
-  messagingSenderId: "15353969928",
-  appId: "1:15353969928:web:e9b00f5fe77c4a001c40bd",
-  measurementId: "G-88NN1LBTTC"
-};
-
 let app;
 
 if (firebase.apps.length === 0) {
