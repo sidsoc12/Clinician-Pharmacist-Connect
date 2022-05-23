@@ -4,7 +4,6 @@ Enterprise Application for Telehealth companies to connect Pharmacists with Clin
 
 Consists of a 1) Real Time Prescription Management System 2) Real Time Chat Functionality
 <br></br>
-<img width="468" alt="Screen Shot 2022-03-02 at 10 53 27 AM" src="https://user-images.githubusercontent.com/64938719/169919814-82c8242d-4b9b-41c3-8810-3c5c3ddab3db.png">
 ![Simulator Screen Shot - iPhone 13 - 2022-05-17 at 11 39 25](https://user-images.githubusercontent.com/64938719/169919830-3c2f7289-4539-4b8f-b1f3-0fcf19ccda69.png)
 ![Simulator Screen Shot - iPhone 13 - 2022-05-17 at 11 48 03](https://user-images.githubusercontent.com/64938719/169919827-7b76a7cd-8ae4-4687-be6b-1047c376e341.png)
 ![Simulator Screen Shot - iPhone 13 - 2022-05-15 at 19 47 04](https://user-images.githubusercontent.com/64938719/169920409-8e0f415f-2d66-401a-9c4f-97a877498364.png)
