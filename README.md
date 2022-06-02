@@ -2,6 +2,8 @@
 
 Enterprise Application for Telehealth companies to connect Pharmacists with Clinicians.
 
+Runs on an Android and IOS simulator
+
 Consists of a 1) Real Time Prescription Management System 2) Real Time Chat Functionality
 <br></br>
 ![Simulator Screen Shot - iPhone 13 - 2022-05-17 at 11 39 25](https://user-images.githubusercontent.com/64938719/169919830-3c2f7289-4539-4b8f-b1f3-0fcf19ccda69.png)
