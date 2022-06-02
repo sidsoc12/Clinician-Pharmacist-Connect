@@ -26,6 +26,7 @@ service cloud.firestore
     match /chats/{chat=**}
     {
     //Check if user email is in the chat doc id 
+    //This needs fixing
     //Alert: need to put request.auth.token.email into regex to work with matches()!
      allow read, write: if (request.auth != null) && (chat.matches(request.auth.token.email));
     }
