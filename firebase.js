@@ -15,6 +15,18 @@ import 'firebase/compat/storage';
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 
+// Put in API info here
+
+const firebaseConfig = {
+  apiKey: ,
+  authDomain: ,
+  projectId: ,
+  storageBucket: ,
+  messagingSenderId: ,
+  appId: ,
+  measurementId: 
+};
+
 let app;
 
 if (firebase.apps.length === 0) {
